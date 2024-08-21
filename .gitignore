@@ -1,5 +1,5 @@
 .vscode
-bazel_bin
-bazel_out
-bazel_serial
-bazel_testlogs
+bazel-bin
+bazel-out
+bazel-serial
+bazel-testlogs
