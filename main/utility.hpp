@@ -1,5 +1,5 @@
-#ifndef RTWEEKEND_H
-#define RTWEEKEND_H
+#ifndef UTILITY_H
+#define UTILITY_H
 
 #include <cmath>
 #include <iostream>
@@ -42,9 +42,9 @@ inline int random_int(int min, int max) {
 
 // Common Headers
 
-#include "color.h"
-#include "interval.h"
-#include "ray.h"
-#include "vec3.h"
+#include "color.hpp"
+#include "interval.hpp"
+#include "ray.hpp"
+#include "vec3.hpp"
 
 #endif

@@ -1,8 +1,8 @@
 #ifndef HITTABLE_LIST_H
 #define HITTABLE_LIST_H
 
-#include "hittable.h"
-#include "aabb.h"
+#include "hittable.hpp"
+#include "aabb.hpp"
 
 #include <memory>
 #include <vector>
